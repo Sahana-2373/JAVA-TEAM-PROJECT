@@ -1,0 +1,4 @@
+# DMA,segment,category,nominalPressureBar,pipeAgeYears,inflowLps,outflowLps,acousticNoiseDb,pressureDifferentialBar,billedLiters,unaccountedLiters,groundMoisture(0-100)
+DMA-ABC-001,SEG-001,HIGH-PRESSURE TRUNK MAIN,8.0,20,100,85,70,1.2,50000,5000,35
+DMA-DEF-002,SEG-002,RESIDENTIAL DISTRIBUTION PIPE,4.5,12,80,74,42,0.5,42000,3000,18
+DMA-GHI-003,SEG-003,INDUSTRIAL FEEDER LINE,6.0,18,120,100,55,1.0,60000,9000,72
